@@ -1,0 +1,3 @@
+GO = "ВПЕРЕД"
+GAME = 1
+QUESTIONS_ON_ROUND = 4
